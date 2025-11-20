@@ -1,24 +1,13 @@
-# ¡Hola! Soy Luis Durand. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
-
-<!--
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me
-
 ### 👨🏻‍💻 &nbsp;Sobre mí
+<img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='45' align="left"/><h2>¡Hola! Soy Luis Fabricio Durand</h2>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 💡 &nbsp;Apasionado por el análisis de datos y la creación de soluciones que generen valor real.  
-🎓 &nbsp;Estudiante de **Ingeniería de Sistemas (6.º ciclo)** en la **Universidad Privada del Norte**.  
-🌱 &nbsp;Actualmente aprendiendo **Power BI avanzado**, **Python para análisis**, y **modelado de datos**.  
+🎓 &nbsp;Estudiante de **Ingeniería de Sistemas** en la **Universidad Privada del Norte**.  
+🌱 &nbsp;Actualmente aprendiendo **Power BI avanzado**, **Python para análisis**, y **Modelado de datos**.  
 📊 &nbsp;Interesado en Business Intelligence, Data Analytics y automatización con Python.  
 💬 &nbsp;Disponible para consultas, proyectos colaborativos y prácticas pre-profesionales.  
 ✉️ &nbsp;Puedes escribirme a **luisdurand681@gmail.com**.  
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ---
 
@@ -30,8 +19,12 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
 
-#### 📌 *Business Intelligence*
-![Power BI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
+### Lenguajes que uso
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+</p>
 
 #### 📌 *Herramientas & Control de versiones*
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
