@@ -1,6 +1,13 @@
-![Luis Durand Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+# ¡Hola! Soy Luis Durand. 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
-<img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Luis Fabricio Durand</h2>
+<!--
+**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
@@ -9,8 +16,7 @@
 🌱 &nbsp;Actualmente aprendiendo **Power BI avanzado**, **Python para análisis**, y **modelado de datos**.  
 📊 &nbsp;Interesado en Business Intelligence, Data Analytics y automatización con Python.  
 💬 &nbsp;Disponible para consultas, proyectos colaborativos y prácticas pre-profesionales.  
-✉️ &nbsp;Puedes escribirme a **tu_correo@ejemplo.com**.  
-📄 &nbsp;Próximamente publicaré mi portafolio con proyectos de análisis y visualización.
+✉️ &nbsp;Puedes escribirme a **luisdurand681@gmail.com**.  
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
