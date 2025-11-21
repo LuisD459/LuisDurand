@@ -32,3 +32,12 @@
 
 #### 📌 *Otras herramientas*
 ![Excel](https://img.shields.io/badge/-Excel-051)
+
+## 🚀 Proyectos Destacados
+
+### 🥖 Sistema de Panadería – Java + MySQL  
+📁 **Repositorio:** [FINAL_PANADERIAX](https://github.com/UPN-ESTUDIANTES/FINAL_PANADERIAX)  
+💬 **Descripción:**  
+Sistema de ventas para una panadería con gestión de productos, empleados, proveedores, compras y ventas.  
+Incluye interfaz gráfica en Java Swing, conexión a MySQL, CRUD completos y procedimientos almacenados.
+
